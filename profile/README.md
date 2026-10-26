@@ -9,7 +9,7 @@ Newly funded startups and their open roles, found the day they raise. For recrui
 Try it with no key:
 
 ```bash
-npx github:bloomwatchco/cli sample
+npx bloomwatch sample
 ```
 
 Developers: https://bloomwatch.co/developers. Support: bloomwatchsupport@zeninfinity.com
